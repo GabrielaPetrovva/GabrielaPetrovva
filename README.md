@@ -33,7 +33,6 @@
       ![GitHub followers](https://img.shields.io/github/followers/GabrielaPetrovva)
       
 <p align="right">
-<a href="https://www.google.com/search?sca_esv=557612269&sxsrf=AB5stBi2js4w4jeClwW8PrEMAb15A5Ashw:1692227927546&q=%D0%B8%D0%BD%D0%B6.+%D0%94%D0%B8%D0%BC%D0%B8%D1%82%D1%8A%D1%80+%D0%96%D0%B5%D0%BB%D0%B5%D0%B2+%D0%A1%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjt__-jqOKAAxXBVPEDHWh0BeoQ0pQJegQIDBAB&biw=768&bih=746&dpr=1.25"> More info...</a>
 <!---
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielaPetrovva&layout=compact&hide_border=true" />
 
