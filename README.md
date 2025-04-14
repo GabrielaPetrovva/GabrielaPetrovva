@@ -37,6 +37,12 @@
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/4409/programming-basics-with-csharp-january-2024" > Programming Basics with C# </a>    | <a href="https://softuni.bg/certificates/details/203944/9d4b4280"> Click here</a> |
   Grade: 6.00 (out of 6.00)<br /> Issue date: 20/02/2024 | <img src="https://i.ibb.co/30xy7GT/softbasic.png" alt="Smiley face" width="65" height="95" > 
+
+
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://ai.softuni.bg/trainings/44/ai-basics-march-2025" > AI Basics </a>    | <a href="https://ai.softuni.bg/certificates/details/4641/f8c96c7c"> Click here</a> |
+  Grade: 6.00 (out of 6.00)<br /> Issue date: 14/04/2025 | <img src="https://i.ibb.co/xqBBJLp5/AI-Basics.png" alt="Smiley face" width="65" height="95" > 
   
   ---------------------------------------------------------------------------------
   
