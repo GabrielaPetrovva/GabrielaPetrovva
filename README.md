@@ -42,7 +42,7 @@
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://ai.softuni.bg/trainings/44/ai-basics-march-2025" > AI Basics </a>    | <a href="https://ai.softuni.bg/certificates/details/4641/f8c96c7c"> Click here</a> |
-  Grade: 6.00 (out of 6.00)<br /> Issue date: 14/04/2025 | <img src="https://i.ibb.co/xqBBJLp5/AI-Basics.png" alt="Smiley face" width="65" height="95" >
+  Grade: 6.00 (out of 6.00)<br /> Issue date: 14/04/2025 | <img src="https://i.postimg.cc/WzVH0wkL/AI-Basics.png" alt="Smiley face" width="65" height="95" >
   
   ---------------------------------------------------------------------------------
   
