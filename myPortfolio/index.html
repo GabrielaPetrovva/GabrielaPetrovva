@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gabriela Stefanova - Full Stack Developer</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <div class="custom-cursor"></div>
+    <div id="canvas-container"></div>
+    <canvas class="matrix-rain" id="matrix"></canvas>
+
+    <div class="container">
+        <section class="hero">
+            <div class="floating-code code-1">const languages = ['C#', 'CSS', 'JavaScript'];</div>
+            <div class="floating-code code-2">function buildFuture() { return 'innovation'; }</div>
+            <div class="floating-code code-3">git commit -m "Ready for practice"</div>
+            <div class="floating-code code-4">npm run build --production</div>
+            <div class="floating-code code-5">using System; // C# magic</div>
+            <div class="floating-code code-6">&lt;div class="future"&gt;&lt;/div&gt;</div>
+
+            <h1>Gabriela Stefanova</h1>
+            <div class="title">Student & Tech Enthusiast</div>
+            
+            <div class="programming-languages">
+                <span class="lang-tag">C#</span>
+                <span class="lang-tag">HTML</span>
+                <span class="lang-tag">CSS</span>
+                <span class="lang-tag">JavaScript</span>
+                <span class="lang-tag">C++</span>
+            </div>
+
+            <div class="subtitle">
+                17-year-old passionate developer from Bulgaria, crafting digital experiences with cutting-edge technology. 
+                Ready to bring fresh ideas and technical skills to innovative projects.
+            </div>
+
+            <button class="cta-button" onclick="scrollToAbout()">Discover My Journey</button>
+        </section>
+
+        <section class="about-section" id="about">
+            <div class="about-content">
+                <h2>About Me</h2>
+                <p>
+                    Hi! I'm <span class="highlight">Gabriela Stefanova</span>,17 years old developer with passion for creating innovative web technologies.
+                </p>
+                <p>
+                    My journey started with curiosity and evolved into love for
+                    <span class="highlight">web development</span>.
+                </p>
+                <p>
+                    I have completed two projects for now – website about
+                    <span class="highlight">Chernobyl</span> and a few pages for the website of the IT class at my school,
+                    <span class="highlight">programisti.com</span> 
+                </p>
+                <p>I’m currently looking forward to getting real experience and bringing my ideas to life through real projects.</p>
+            </div>
+        </section>
+
+        <section class="projects-section" id="projects">
+            <h2 class="projects-title">My Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-image">
+                        <iframe src="https://rbmk-info.netlify.app/" width="600" height="300" frameborder="0"></iframe>
+
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Chernobyl Historical Website</h3>
+                        <p class="project-description">
+                            A website dedicated to the Chernobyl disaster.
+                        </p>
+                        <div class="project-tech">
+                            <span class="tech-tag">HTML5</span>
+                            <span class="tech-tag">CSS3</span>
+                            <span class="tech-tag">JavaScript</span>
+                        </div>
+                         <a href="https://rbmk-info.netlify.app/" class="project-link" target="_blank">
+                            Visit Website →
+                        </a>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-image">
+                        <iframe src="https://www.programisti.com/" width="600" height="400" frameborder="0"></iframe>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Programisti.com</h3>
+                        <p class="project-description">
+                            Contributed to the development of multiple pages for IT class at my school. 
+                        </p>
+                        <div class="project-tech">
+                            <span class="tech-tag">HTML5</span>
+                            <span class="tech-tag">CSS3</span>
+                            <span class="tech-tag">JavaScript</span>
+                        </div>
+                        <a href="https://www.programisti.com/" class="project-link" target="_blank">
+                            Visit Website →
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="skills-section">
+            <h2 class="projects-title">My Skills</h2>
+            <div class="terminal">
+                <div class="terminal-header">
+                    <div class="terminal-btn btn-red"></div>
+                    <div class="terminal-btn btn-yellow"></div>
+                    <div class="terminal-btn btn-green"></div>
+                </div>
+                <div class="terminal-content">
+                    <div class="typing-animation">Console.WriteLine("Turning ideas into reality, one commit at a time.");</div>
+                </div>
+            </div>
+
+            
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <div class="skill-icon">⚛️</div>
+                    <h3>Frontend Development</h3>
+                    <p>HTML, CSS, JavaScript</p>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">🚀</div>
+                    <h3>Backend Programming</h3>
+                    <p>C#, .NET Framework, Object-Oriented Programming, Data Structures</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="contact-section" id="contact">
+            <h2 class="contact-title">Let's Connect</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <div class="contact-item" onclick="copyToClipboard('gabriela.stefanova@example.bg')">
+                        <div class="contact-icon">📧</div>
+                        <div class="contact-label">Email</div>
+                        <div class="contact-value">stefanogabriela1@gmial.com</div>
+                    </div>
+                    <div class="contact-item" onclick="window.open('https://github.com/GabrielaPetrovva', '_blank')">
+                        <div class="contact-icon">💻</div>
+                        <div class="contact-label">GitHub</div>
+                        <div class="contact-value">github.com/gabrielastefanova</div>
+                    </div>
+                    <div class="contact-item" onclick="window.open('https://www.linkedin.com/feed/', '_blank')">
+                        <div class="contact-icon">🔗</div>
+                        <div class="contact-label">LinkedIn</div>
+                        <div class="contact-value">linkedin.com/in/gabrielastefanova</div>
+                    </div>
+                    <div class="contact-item" onclick="copyToClipboard('+359 XXX XXX XXX')">
+                        <div class="contact-icon">📱</div>
+                        <div class="contact-label">Phone</div>
+                        <div class="contact-value">+359 909 983 81</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="contact-message">
+                <h3>Ready for New Opportunities</h3>
+                <p>
+                    I'm actively looking for business practice opportunities and exciting projects 
+                    where I can apply my skills and continue learning. Whether it's web development, 
+                    software engineering, or innovative tech solutions, I'm ready to contribute and grow.
+                </p>
+            </div>
+        </section>
+    </div>
+
+    <script src="js/script.js" defer></script>
+
+</body>
+</html>
