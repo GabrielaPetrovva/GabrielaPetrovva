@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>РБМК Реактори и Чернобил | История на ядрената енергетика</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 
 </head>
 <body>
@@ -17,14 +17,32 @@
                     </svg>
                     <h1>РБМК Енциклопедия</h1>
                 </div>
+                <!-- Desktop Navigation -->
                 <ul class="nav-links">
                     <li><a href="#about">За РБМК</a></li>
                     <li><a href="#timeline">История</a></li>
                     <li><a href="#rbmk-design">Дизайн</a></li>
                     <li><a href="#chernobyl">Чернобил</a></li>
                     <li><a href="#radiation">Радиация</a></li>
-                    <li><a href="#news">Статии</a></li>
                 </ul>
+
+                <!-- Mobile Menu Button -->
+                <button class="mobile-menu-btn" aria-label="Отвори меню">
+                    <span class="hamburger-line"></span>
+                    <span class="hamburger-line"></span>
+                    <span class="hamburger-line"></span>
+                </button>
+
+                <!-- Mobile Navigation -->
+                <div class="mobile-nav">
+                    <ul class="mobile-nav-links">
+                        <li><a href="#about">За РБМК</a></li>
+                        <li><a href="#timeline">История</a></li>
+                        <li><a href="#rbmk-design">Дизайн</a></li>
+                        <li><a href="#chernobyl">Чернобил</a></li>
+                        <li><a href="#radiation">Радиация</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </header>
@@ -47,11 +65,11 @@
                 <div class="about-img">
                     <div class="image-wrapper">
                         <div class="image-before">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Chernobyl_04710018_%288134364258%29.jpg" alt="РБМК реактор">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Chernobyl_04710018_%288134364258%29.jpg" alt="РБМК реактор" loading="lazy">
                             <div class="image-label before-label">Преди аварията</div>
                         </div>
                         <div class="image-after">
-                            <img src="https://m.netinfo.bg/media/images/38674/38674950/r-orig-orig-chrenobil.jpg" alt="Чернобилската АЕЦ след аварията">
+                            <img src="https://m.netinfo.bg/media/images/38674/38674950/r-orig-orig-chrenobil.jpg" alt="Чернобилската АЕЦ след аварията" loading="lazy">
                             <div class="image-label after-label">След аварията</div>
                         </div>
                     </div>
@@ -178,7 +196,7 @@
             <h2 class="section-title">Дизайн и функциониране на РБМК</h2>
             <div class="rbmk-content">
                 <div class="rbmk-diagram">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/RBMK_reactor_schematic.svg" alt="Схема на РБМК реактор">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/RBMK_reactor_schematic.svg" alt="Схема на РБМК реактор" loading="lazy">
                     <div class="rbmk-hotspots">
                         <div class="rbmk-hotspot" style="top: 30%; left: 40%;"></div>
                         <div class="rbmk-hotspot" style="top: 60%; left: 60%;"></div>
@@ -451,7 +469,7 @@
                     </div>
                 </div>
                 <div class="zone-img">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Chernobyl_radiation_map_1996.svg/1200px-Chernobyl_radiation_map_1996.svg.png" alt="Чернобилска зона за отчуждаване">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Chernobyl_radiation_map_1996.svg/1200px-Chernobyl_radiation_map_1996.svg.png" alt="Чернобилска зона за отчуждаване" loading="lazy">
                 </div>
             </div>
         </div>
@@ -475,46 +493,7 @@
         </div>
     </section>
 
-    <section id="news" class="latest-articles">
-        <div class="container">
-            <h2 class="section-title">Последни статии</h2>
-            <div class="articles-grid">
-                <div class="article-card">
-                    <div class="radiation-level radiation-medium">Средно ниво</div>
-                    <div class="article-img">
-                        <img src="reactor.jpg" style="height: 200px; width: 100%;" alt="РБМК реактори днес">
-                    </div>
-                    <div class="article-content">
-                        <h3>РБМК реактори в експлоатация днес</h3>
-                        <p>Въпреки опасностите, разкрити от Чернобилската авария, няколко РБМК реактора продължават да работят с подобрени мерки за безопасност.</p>
-                        <a href="https://www.neimagazine.com/news/leningrad-3-licensed-to-operate-until-2030/?utm_source=chatgpt.com" class="read-more">Прочети повече</a>
-                    </div>
-                </div>
-                <div class="article-card">
-                    <div class="radiation-level radiation-high">Високо ниво</div>
-                    <div class="article-img">
-                        <img src="sarcofag.jpg" style="height: 200px; width: 100%;" alt="Саркофагът">
-                    </div>
-                    <div class="article-content">
-                        <h3>Новият безопасен саркофаг</h3>
-                        <p>През 2016 г. беше завършен новият защитен саркофаг над разрушения реактор №4, проектиран да издържи поне 100 години.</p>
-                        <a href="https://www.ebrd.com/home/news-and-events/news/2019/keys-handed-over-for-chernobyl-new-safe-confinement.html?utm_source=chatgpt.com" class="read-more">Прочети повече</a>
-                    </div>
-                </div>
-                <div class="article-card">
-                    <div class="radiation-level radiation-low">Ниско ниво</div>
-                    <div class="article-img">
-                        <img src="ecoturism.jpg" style="height: 200px; width: 100%;" alt="Екотуризъм в Чернобил">
-                    </div>
-                    <div class="article-content">
-                        <h3>Чернобилски туризъм</h3>
-                        <p>Чернобилската зона привлича хиляди туристи годишно. Какви са рисковете и как да посетите зоната отговорно.</p>
-                        <a href="https://www.aljazeera.com/gallery/2018/9/9/from-nuclear-disaster-to-chernobyls-booming-tourism/?utm_source=chatgpt.com" class="read-more">Прочети повече</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+
 
     <footer>
         <div class="container">
@@ -543,7 +522,6 @@
                         <li><a href="#rbmk-design">Дизайн</a></li>
                         <li><a href="#chernobyl">Чернобил</a></li>
                         <li><a href="#radiation">Радиация</a></li>
-                        <li><a href="#newsletter">Бюлетин</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
@@ -568,7 +546,7 @@
         </div>
     </footer>
 
-    <script src="script.js" defer></script>
+    <script src="js/script.js" defer></script>
 
 </body>
 </html>
