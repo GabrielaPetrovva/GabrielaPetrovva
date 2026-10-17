@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2a38,100:3498db&height=190&section=header&text=Gabriela%20Stefanova&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Technology%20Enthusiast&descAlignY=55&descSize=16" width="100%" alt="Header"/>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3498DB&center=true&vCenter=true&width=500&lines=Learning+C%23+and+Machine+Learning;Exploring+Artificial+Intelligence;Student+%26+Future+Developer" alt="Typing SVG" />
