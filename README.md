@@ -7,8 +7,7 @@
 
 <a href="mailto:stefanogabriela1@gmail.com"><img src="https://img.shields.io/badge/Email-1e2a38?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/GabrielaPetrovva?tab=followers"><img src="https://img.shields.io/github/followers/GabrielaPetrovva?style=for-the-badge&color=3498db&labelColor=1e2a38&logo=github" alt="Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=GabrielaPetrovva&color=3498db&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
+<img src="https://hits.sh/github.com/GabrielaPetrovva.svg?style=for-the-badge&label=Profile%20Views&color=3498db&labelColor=1e2a38" alt="Profile views"/>
 </div>
 
 ---
