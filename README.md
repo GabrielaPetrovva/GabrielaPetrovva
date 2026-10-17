@@ -49,13 +49,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/GabrielaPetrovva/[repo-1]">[Project 1]</a></b>
+      <b><a href="https://github.com/GabrielaPetrovva/[repo-1]">callSliven</a></b>
       <br><sub>Call-Sliven - website for sending signal to institutions in Sliven</sub>
       <br><br>
       <img src="https://img.shields.io/badge/C%23-1e2a38?style=flat-square&logo=dotnet&logoColor=3498db"/>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/GabrielaPetrovva/[repo-2]">[Project 2]</a></b>
+      <b><a href="https://github.com/GabrielaPetrovva/[repo-2]">xsu</a></b>
       <br><sub>Xsu - website for my school "Yordan Yovkov"</sub>
       <br><br>
       <img src="https://img.shields.io/badge/Python-1e2a38?style=flat-square&logo=python&logoColor=3498db"/>
