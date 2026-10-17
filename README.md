@@ -5,7 +5,7 @@
 <br><br>
 
 
-<a href="mailto:[stefanogabriela1@gmail.com]"><img src="https://img.shields.io/badge/Email-1e2a38?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:stefanogabriela1@gmail.com"><img src="https://img.shields.io/badge/Email-1e2a38?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/GabrielaPetrovva?tab=followers"><img src="https://img.shields.io/github/followers/GabrielaPetrovva?style=for-the-badge&color=3498db&labelColor=1e2a38&logo=github" alt="Followers"/></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=GabrielaPetrovva.GabrielaPetrovva&left_color=%231e2a38&right_color=%233498db&left_text=Visitors" alt="Visitors"/>
 
@@ -13,23 +13,23 @@
 
 ---
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>About Me</h3>
-      <ul>
-        <li>Interested in AI and new technologies</li>
-        <li>Learning <b>C#</b></li>
-        <li>Student, building projects along the way</li>
-      </ul>
+      Interested in AI and new technologies
+      <br>
+      Learning <b>C#</b>
+      <br>
+      Student, building projects along the way
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>Currently</h3>
-      <ul>
-        <li>Working on: <b>call-sliven</b></li>
-        <li>Learning: <b>PostgreSQL</b></li>
-        <li>Goal for 2026: <b>Finish 50% of the project</b></li>
-      </ul>
+      Working on: <b>call-sliven</b>
+      <br>
+      Learning: <b>PostgreSQL</b>
+      <br>
+      Goal for 2026: <b>Finish 50% of the project</b>
     </td>
   </tr>
 </table>
