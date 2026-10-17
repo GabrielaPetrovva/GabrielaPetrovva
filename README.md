@@ -4,8 +4,8 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-1e2a38?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-1e2a38?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>stefanogabriela1@gmail.com</a>
 <a href="https://github.com/GabrielaPetrovva?tab=followers"><img src="https://img.shields.io/github/followers/GabrielaPetrovva?style=for-the-badge&color=3498db&labelColor=1e2a38&logo=github" alt="Followers"/></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=GabrielaPetrovva.GabrielaPetrovva&left_color=%231e2a38&right_color=%233498db&left_text=Visitors" alt="Visitors"/>
 
